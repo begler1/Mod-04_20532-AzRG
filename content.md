@@ -1,4 +1,4 @@
-
+﻿
 <!---
 Version: 1.0 
 -->
@@ -22,7 +22,7 @@ You can use the Commands menu and choose Ctrl\+Alt\+Delete then click Student an
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = screens//content/lab35889/screens/08b256f8.jpg
+>* Uri = screens/08b256f8.jpg
 >* ShowAutomatically = No
 
 
@@ -34,7 +34,7 @@ On the Start screen, click the Internet Explorer tile
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = screens//content/lab35889/screens/666394.jpg
+>* Uri = screens/666394.jpg
 >* ShowAutomatically = No
 
 
@@ -49,7 +49,7 @@ Before starting this lab, you must have completed the lab in Module 2. All work 
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = screens//content/lab35889/screens/666395.jpg
+>* Uri = screens/666395.jpg
 >* ShowAutomatically = No
 
 
@@ -65,7 +65,7 @@ In the navigation pane on the left side of the Azure Portal, click Virtual Machi
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = screens//content/lab35889/screens/666396.jpg
+>* Uri = screens/666396.jpg
 >* ShowAutomatically = No
 
 
@@ -77,7 +77,7 @@ Click the vm20532 VM that was created in the lab in Module 2 for development. In
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = screens//content/lab35889/screens/666397.jpg
+>* Uri = screens/666397.jpg
 >* ShowAutomatically = No
 
 
@@ -89,7 +89,7 @@ When the vm20532 VM has started and is running, click Connect. You may have to c
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = screens//content/lab35889/screens/666398.jpg
+>* Uri = screens/666398.jpg
 >* ShowAutomatically = No
 
 
@@ -101,7 +101,7 @@ If presented with a message box that shows a pop-up has been blocked, select Opt
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = screens//content/lab35889/screens/672198.jpg
+>* Uri = screens/672198.jpg
 
 
 
@@ -112,7 +112,7 @@ When presented with the RDP download pop-up at the bottom of the screen, click O
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = screens//content/lab35889/screens/672199.jpg
+>* Uri = screens/672199.jpg
 
 
 
@@ -125,7 +125,7 @@ b. Click Connect.
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = screens//content/lab35889/screens/666399.jpg
+>* Uri = screens/666399.jpg
 >* ShowAutomatically = No
 
 
@@ -141,7 +141,7 @@ Note: If you computer is on a domain, you may need to add a backslash before the
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = screens//content/lab35889/screens/666400.jpg
+>* Uri = screens/666400.jpg
 >* ShowAutomatically = No
 
 
@@ -154,7 +154,7 @@ a. Verify if the Remote certificate name matches the name of your virtual machin
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = screens//content/lab35889/screens/666401.jpg
+>* Uri = screens/666401.jpg
 >* ShowAutomatically = No
 
 
@@ -166,7 +166,7 @@ If you just started the VM, Server Manager will start automatically after about 
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = screens//content/lab35889/screens/666402.jpg
+>* Uri = screens/666402.jpg
 >* ShowAutomatically = No
 
 
@@ -185,7 +185,7 @@ Sign in to the Azure Portal at https://portal.azure.com. If prompted to allow az
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = screens//content/lab35889/screens/666404.jpg
+>* Uri = screens/666404.jpg
 >* ShowAutomatically = No
 
 
@@ -201,7 +201,7 @@ At the top-left corner of the portal, click \+ New. In the New blade that displa
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = screens//content/lab35889/screens/666406.jpg
+>* Uri = screens/666406.jpg
 
 
 
@@ -213,7 +213,7 @@ Click Pricing Tier.
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = screens//content/lab35889/screens/773279.jpg
+>* Uri = screens/773279.jpg
 
 
 
@@ -224,7 +224,7 @@ In the Configure performance blade that displays, click the Basic tile. Click Ap
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = screens//content/lab35889/screens/773280.jpg
+>* Uri = screens/773280.jpg
 
 
 
@@ -238,7 +238,7 @@ If the server name is not unique, add a number until you find a name that is ava
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = screens//content/lab35889/screens/773281.jpg
+>* Uri = screens/773281.jpg
 
 
 
@@ -249,7 +249,7 @@ In the SQL database blade, locate the Resource group section and select the exis
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = screens//content/lab35889/screens/773282.jpg
+>* Uri = screens/773282.jpg
 
 
 
@@ -260,7 +260,7 @@ In the navigation pane on the left side, select SQL Databases. Verify that the d
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = screens//content/lab35889/screens/773285.jpg
+>* Uri = screens/773285.jpg
 
 
 
@@ -285,7 +285,7 @@ Note that Known file extensions \(such as .sln\) may be hidden. See screenshot. 
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = screens//content/lab35889/screens/666411.jpg
+>* Uri = screens/666411.jpg
 >* ShowAutomatically = No
 
 
@@ -297,7 +297,7 @@ If presented with a performance warning, you can close the warning and continue.
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = screens//content/lab35889/screens/779486.jpg
+>* Uri = screens/779486.jpg
 
 
 
@@ -313,7 +313,7 @@ Note: The Data Generation script takes between one to two minutes to run.
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = screens//content/lab35889/screens/666412.jpg
+>* Uri = screens/666412.jpg
 >* ShowAutomatically = No
 
 
@@ -325,7 +325,7 @@ When the Data Generation has completed, click the Output tab to review the outpu
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = screens//content/lab35889/screens/666414.jpg
+>* Uri = screens/666414.jpg
 
 
 
@@ -336,7 +336,7 @@ In the Solution Explorer pane, scroll down then right-click the Contoso.Events.W
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = screens//content/lab35889/screens/666415.jpg
+>* Uri = screens/666415.jpg
 
 
 
@@ -347,7 +347,7 @@ On the Debug menu, click Start Debugging.
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = screens//content/lab35889/screens/666416.jpg
+>* Uri = screens/666416.jpg
 
 
 
@@ -358,7 +358,7 @@ On the home page of the web application, verify that it shows a list of multiple
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = screens//content/lab35889/screens/666413.jpg
+>* Uri = screens/666413.jpg
 >* ShowAutomatically = No
 
 
@@ -389,7 +389,7 @@ In the Solution Explorer pane, right-click the Contoso.Events.Data project, poin
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = screens//content/lab35889/screens/666425.jpg
+>* Uri = screens/666425.jpg
 
 
 
@@ -401,7 +401,7 @@ a. Expand Installed, expand Visual C\# Items, and then click Code. b. Click the 
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = screens//content/lab35889/screens/666426.jpg
+>* Uri = screens/666426.jpg
 
 
 
@@ -413,7 +413,7 @@ using System.Data.Entity;
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = screens//content/lab35889/screens/666429.jpg
+>* Uri = screens/666429.jpg
 
 
 
@@ -430,7 +430,7 @@ public class EventsContextInitializer
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = screens//content/lab35889/screens/666427.jpg
+>* Uri = screens/666427.jpg
 
 
 
@@ -445,7 +445,7 @@ You can Auto Hide the Solution Explorer by clicking the push-pull pin on the win
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = screens//content/lab35889/screens/666428.jpg
+>* Uri = screens/666428.jpg
 
 
 
@@ -460,7 +460,7 @@ In the Solution Explorer pane, expand the Contoso.Events.Data project. In the Co
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = screens//content/lab35889/screens/666430.jpg
+>* Uri = screens/666430.jpg
 
 
 
@@ -472,7 +472,7 @@ Database.SetInitializer<EventsContext>\(new EventsContextInitializer\(\)\);
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = screens//content/lab35889/screens/666431.jpg
+>* Uri = screens/666431.jpg
 
 
 
@@ -487,7 +487,7 @@ Save the EventsContext.cs file.
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = screens//content/lab35889/screens/666432.jpg
+>* Uri = screens/666432.jpg
 
 
 
@@ -498,7 +498,7 @@ In the Solution Explorer pane, expand the Contoso.Events.Data project. In the Co
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = screens//content/lab35889/screens/666433.jpg
+>* Uri = screens/666433.jpg
 
 
 
@@ -520,7 +520,7 @@ Ignore Intellisense errors. These will be corrected later.
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = screens//content/lab35889/screens/666434.jpg
+>* Uri = screens/666434.jpg
 
 
 
@@ -536,7 +536,7 @@ using Contoso.Events.Models;
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = screens//content/lab35889/screens/666435.jpg
+>* Uri = screens/666435.jpg
 
 
 
@@ -566,7 +566,7 @@ Note: If you use the "A" button \(type text\) you will need to add your own carr
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = screens//content/lab35889/screens/666436.jpg
+>* Uri = screens/666436.jpg
 
 
 
@@ -602,7 +602,7 @@ Note: If you use the "A" button \(type text\) you will need to add your own carr
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = screens//content/lab35889/screens/666437.jpg
+>* Uri = screens/666437.jpg
 
 
 
@@ -625,7 +625,7 @@ context.SaveChanges\(\);
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = screens//content/lab35889/screens/666438.jpg
+>* Uri = screens/666438.jpg
 
 
 
@@ -640,7 +640,7 @@ Save the EventsContextInitializer.cs file.
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = screens//content/lab35889/screens/666439.jpg
+>* Uri = screens/666439.jpg
 
 
 
@@ -651,7 +651,7 @@ In the Solution Explorer pane, right-click the Contoso.Events.Data project, and 
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = screens//content/lab35889/screens/666440.jpg
+>* Uri = screens/666440.jpg
 
 
 
@@ -662,7 +662,7 @@ Verify Build succeeded
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = screens//content/lab35889/screens/666441.jpg
+>* Uri = screens/666441.jpg
 
 
 
@@ -673,7 +673,7 @@ In the Solution Explorer pane, expand the Contoso.Events.Web project. Expand the
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = screens//content/lab35889/screens/666442.jpg
+>* Uri = screens/666442.jpg
 
 
 
@@ -694,7 +694,7 @@ The word wrap feature will cause a visual glyph \(line break\) in the middle of
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = screens//content/lab35889/screens/773317.jpg
+>* Uri = screens/773317.jpg
 
 
 
@@ -705,7 +705,7 @@ Save the Web.Release.config file.
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = screens//content/lab35889/screens/773318.jpg
+>* Uri = screens/773318.jpg
 
 
 
@@ -716,7 +716,7 @@ In the Solution Explorer pane, right-click the Contoso.Events.Web project, and t
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = screens//content/lab35889/screens/773319.jpg
+>* Uri = screens/773319.jpg
 
 
 
@@ -727,7 +727,7 @@ In the Publish Web window, click Microsoft Azure App Service. Ensure Create New 
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = screens//content/lab35889/screens/773320.jpg
+>* Uri = screens/773320.jpg
 
 
 
@@ -738,7 +738,7 @@ In the Create App Service dialog, perform the following steps: a. Ensure that yo
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = screens//content/lab35889/screens/773322.jpg
+>* Uri = screens/773322.jpg
 
 
 
@@ -749,7 +749,7 @@ e. Ensure that you have an auto-generated App Service Plan name. If not, provide
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = screens//content/lab35889/screens/773323.jpg
+>* Uri = screens/773323.jpg
 
 
 
@@ -763,7 +763,7 @@ Note: The deployment process for the new App Service is relatively short and sho
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = screens//content/lab35889/screens/773324.jpg
+>* Uri = screens/773324.jpg
 
 
 
@@ -777,7 +777,7 @@ Note: The publish process is complete when the message “Succeeded” displays 
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = screens//content/lab35889/screens/773326.jpg
+>* Uri = screens/773326.jpg
 
 
 
@@ -788,7 +788,7 @@ In the Web Publish Activity pane, note the hyperlink that directs you to the pub
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = screens//content/lab35889/screens/773327.jpg
+>* Uri = screens/773327.jpg
 
 
 
@@ -799,7 +799,7 @@ Verify that the website displays the single event that you created in your Entit
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = screens//content/lab35889/screens/773328.jpg
+>* Uri = screens/773328.jpg
 
 
 
@@ -810,7 +810,7 @@ Switch back to the Azure Portal. It should still be open in another tab. If not,
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = screens//content/lab35889/screens/666455.jpg
+>* Uri = screens/666455.jpg
 
 
 
@@ -821,7 +821,7 @@ In the Browse blade, click SQL databases. In the list of SQL Databases, select t
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = screens//content/lab35889/screens/773330.jpg
+>* Uri = screens/773330.jpg
 
 
 
@@ -832,7 +832,7 @@ In the db20532 - SQL database Overview blade, locate the Essentials panel. Locat
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = screens//content/lab35889/screens/773331.jpg
+>* Uri = screens/773331.jpg
 
 
 
@@ -843,7 +843,7 @@ In the SQL server Overview blade, locate the Essentials panel. Locate the Firew
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = screens//content/lab35889/screens/773332.jpg
+>* Uri = screens/773332.jpg
 
 
 
@@ -854,7 +854,7 @@ In the Firewall settings blade, click the Add client IP button to add your virtu
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = screens//content/lab35889/screens/773333.jpg
+>* Uri = screens/773333.jpg
 
 
 
@@ -868,7 +868,7 @@ Note: It might take a minute for the firewall changes to get updated on server.
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = screens//content/lab35889/screens/773334.jpg
+>* Uri = screens/773334.jpg
 
 
 
@@ -879,7 +879,7 @@ Return to the open instance of Visual Studio. In Visual Studio, open the View me
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = screens//content/lab35889/screens/773335.jpg
+>* Uri = screens/773335.jpg
 
 
 
@@ -890,7 +890,7 @@ Expand the Data Connections node. Right click on Data Connections and click on A
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = screens//content/lab35889/screens/773336.jpg
+>* Uri = screens/773336.jpg
 
 
 
@@ -901,7 +901,7 @@ Choose Microsoft SQL Server for data source and click Continue
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = screens//content/lab35889/screens/773337.jpg
+>* Uri = screens/773337.jpg
 
 
 
@@ -916,7 +916,7 @@ Note: If firewall rules are not updated on the server, you may have to wait a fe
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = screens//content/lab35889/screens/773338.jpg
+>* Uri = screens/773338.jpg
 
 
 
@@ -927,7 +927,7 @@ On Visual Studio Server Explorer, expand Data Connections then sv20532\[your nam
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = screens//content/lab35889/screens/773339.jpg
+>* Uri = screens/773339.jpg
 
 
 
@@ -941,7 +941,7 @@ It may take a while for the table data to be displayed.
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = screens//content/lab35889/screens/773340.jpg
+>* Uri = screens/773340.jpg
 
 
 
@@ -952,7 +952,7 @@ In the dbo.Events table, view the single record.
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = screens//content/lab35889/screens/779514.jpg
+>* Uri = screens/779514.jpg
 
 
 
@@ -991,7 +991,7 @@ Close RDP session and click OK to disconnect
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = screens//content/lab35889/screens/773296.jpg
+>* Uri = screens/773296.jpg
 >* ShowAutomatically = No
 
 
